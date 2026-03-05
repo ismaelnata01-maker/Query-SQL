@@ -1,0 +1,2 @@
+-- Active: 1772562593438@@127.0.0.1@3306
+SELECT * FROM frutaria WHERE id = 1 or id = 3;
